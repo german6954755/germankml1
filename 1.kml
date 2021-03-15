@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Export_Output_16" id="Export_Output_16">
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="Layer" type="string"></SimpleField>
+	<SimpleField name="FID_" type="string"></SimpleField>
+	<SimpleField name="FID" type="string"></SimpleField>
+	<SimpleField name="Color" type="string"></SimpleField>
+	<SimpleField name="RefName" type="string"></SimpleField>
+	<SimpleField name="Entity" type="string"></SimpleField>
+	<SimpleField name="LineWt" type="string"></SimpleField>
+	<SimpleField name="Linetype" type="string"></SimpleField>
+	<SimpleField name="Elevation" type="string"></SimpleField>
+	<SimpleField name="Field_1" type="string"></SimpleField>
+</Schema>
+<Folder><name>Export_Output_16</name>
+  <Placemark>
+	<name></name>
+	<ExtendedData><SchemaData schemaUrl="#Export_Output_16">
+		<SimpleData name="Layer">manzanos libres esquina</SimpleData>
+		<SimpleData name="FID_">0</SimpleData>
+		<SimpleData name="FID">0</SimpleData>
+		<SimpleData name="Color">52</SimpleData>
+		<SimpleData name="RefName"></SimpleData>
+		<SimpleData name="Entity">Circle</SimpleData>
+		<SimpleData name="LineWt">25</SimpleData>
+		<SimpleData name="Linetype">Continuous</SimpleData>
+		<SimpleData name="Elevation">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Export_Output_16">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="Layer">manzanos libres esquina</SimpleData>
+		<SimpleData name="FID_">0</SimpleData>
+		<SimpleData name="FID">1</SimpleData>
+		<SimpleData name="Color">52</SimpleData>
+		<SimpleData name="RefName"></SimpleData>
+		<SimpleData name="Entity">LWPolyline</SimpleData>
+		<SimpleData name="LineWt">25</SimpleData>
+		<SimpleData name="Linetype">Continuous</SimpleData>
+		<SimpleData name="Elevation">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1547434473898,-16.6557604246848 -68.1547382686634,-16.6557577287251 -68.1547335912093,-16.6557542850027 -68.1547295302057,-16.6557501783163 -68.1547261856515,-16.6557455097896 -68.1547236399033,-16.6557403943809 -68.1547219556479,-16.6557349580529 -68.1547211743586,-16.6557293346705 -68.1547213152738,-16.6557236627045 -68.1547223749236,-16.6557180818222 -68.1547243272149,-16.6557127294481 -68.1547854989907,-16.6555794870065 -68.1548930135606,-16.6556253543232 -68.1548166627412,-16.6557916594441 -68.1547434473898,-16.6557604246848</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Export_Output_16">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="Layer">manzanos libres esquina</SimpleData>
+		<SimpleData name="FID_">0</SimpleData>
+		<SimpleData name="FID">2</SimpleData>
+		<SimpleData name="Color">52</SimpleData>
+		<SimpleData name="RefName"></SimpleData>
+		<SimpleData name="Entity">LWPolyline</SimpleData>
+		<SimpleData name="LineWt">25</SimpleData>
+		<SimpleData name="Linetype">Continuous</SimpleData>
+		<SimpleData name="Elevation">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1548961488471,-16.655427814404 -68.1549693642425,-16.6554590491656 -68.1548930135606,-16.6556253543232 -68.1547854989907,-16.6555794870065 -68.1548466706782,-16.6554462445412 -68.1548494675219,-16.6554412524831 -68.1548530400588,-16.6554367436527 -68.1548573003186,-16.6554328290755 -68.1548621433968,-16.6554296051439 -68.1548674500373,-16.6554271512441 -68.1548730895694,-16.6554255278009 -68.1548789231255,-16.65542477479 -68.1548848070598,-16.6554249107534 -68.1548905964867,-16.6554259323433 -68.1548961488471,-16.655427814404</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Export_Output_16">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="Layer">manzanos libres esquina</SimpleData>
+		<SimpleData name="FID_">0</SimpleData>
+		<SimpleData name="FID">3</SimpleData>
+		<SimpleData name="Color">52</SimpleData>
+		<SimpleData name="RefName"></SimpleData>
+		<SimpleData name="Entity">LWPolyline</SimpleData>
+		<SimpleData name="LineWt">25</SimpleData>
+		<SimpleData name="Linetype">Continuous</SimpleData>
+		<SimpleData name="Elevation">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1557564292673,-16.6552686658319 -68.1556802457417,-16.655236165139 -68.1557599728887,-16.6550625031906 -68.1558660484865,-16.6551077561329 -68.1558063507896,-16.6552492264906 -68.1558036533081,-16.6552543916159 -68.1558001360904,-16.6552590761187 -68.1557958891093,-16.6552631601664 -68.1557910210054,-16.6552665392863 -68.1557856563079,-16.6552691270382 -68.1557799322495,-16.6552708572257 -68.1557739952554,-16.6552716855895 -68.155767997198,-16.6552715909394 -68.1557620915114,-16.6552705756967 -68.1557564292673,-16.6552686658319</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Export_Output_16">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="Layer">manzanos libres esquina</SimpleData>
+		<SimpleData name="FID_">0</SimpleData>
+		<SimpleData name="FID">4</SimpleData>
+		<SimpleData name="Color">52</SimpleData>
+		<SimpleData name="RefName"></SimpleData>
+		<SimpleData name="Entity">LWPolyline</SimpleData>
+		<SimpleData name="LineWt">25</SimpleData>
+		<SimpleData name="Linetype">Continuous</SimpleData>
+		<SimpleData name="Elevation">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1559266030318,-16.6549642549877 -68.1558660484865,-16.6551077561329 -68.1557599728887,-16.6550625031906 -68.1558396998858,-16.6548888412021 -68.1559070392935,-16.6549175688875 -68.1559126595465,-16.6549205443174 -68.1559176719234,-16.6549243990817 -68.155921929932,-16.6549290205208 -68.1559253091273,-16.654934273568 -68.1559277107485,-16.6549400046974 -68.1559290646057,-16.6549460464105 -68.1559293311306,-16.6549522221317 -68.1559285025338,-16.6549583513686 -68.1559266030318,-16.6549642549877</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Export_Output_16">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="Layer">manzanos libres esquina</SimpleData>
+		<SimpleData name="FID_">0</SimpleData>
+		<SimpleData name="FID">6</SimpleData>
+		<SimpleData name="Color">52</SimpleData>
+		<SimpleData name="RefName"></SimpleData>
+		<SimpleData name="Entity">LWPolyline</SimpleData>
+		<SimpleData name="LineWt">25</SimpleData>
+		<SimpleData name="Linetype">Continuous</SimpleData>
+		<SimpleData name="Elevation">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1550790236223,-16.6549401378653 -68.1551435722054,-16.654799538841 -68.155246355549,-16.6548433876935 -68.1551666280492,-16.6550170494309 -68.1550981429241,-16.6549878326914 -68.1550929643677,-16.654985136662 -68.1550882870818,-16.654981692905 -68.1550842262366,-16.6549775862171 -68.1550808818236,-16.6549729177187 -68.1550783361934,-16.6549678023636 -68.1550766520277,-16.654962366109 -68.1550758707962,-16.6549567428135 -68.1550760117353,-16.6549510709413 -68.1550770713747,-16.6549454901528 -68.1550790236223,-16.6549401378653</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Export_Output_16">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="Layer">manzanos libres esquina</SimpleData>
+		<SimpleData name="FID_">0</SimpleData>
+		<SimpleData name="FID">7</SimpleData>
+		<SimpleData name="Color">52</SimpleData>
+		<SimpleData name="RefName"></SimpleData>
+		<SimpleData name="Entity">LWPolyline</SimpleData>
+		<SimpleData name="LineWt">25</SimpleData>
+		<SimpleData name="Linetype">Continuous</SimpleData>
+		<SimpleData name="Elevation">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1560902800817,-16.6544833264325 -68.1560960053172,-16.6544863695481 -68.1561010953952,-16.6544903247952 -68.1561053956561,-16.6544950719956 -68.1561087754388,-16.6545004669082 -68.1561111320502,-16.6545063456113 -68.1561123938857,-16.6545125294834 -68.1561125226051,-16.6545188306308 -68.1561115142972,-16.6545250575964 -68.1561093995987,-16.6545310211768 -68.1560496076935,-16.6546727598412 -68.1559504555529,-16.6546304605393 -68.1560298406613,-16.6544575423663 -68.1560902800817,-16.6544833264325</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Export_Output_16">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="Layer">manzanos libres esquina</SimpleData>
+		<SimpleData name="FID_">0</SimpleData>
+		<SimpleData name="FID">8</SimpleData>
+		<SimpleData name="Color">52</SimpleData>
+		<SimpleData name="RefName"></SimpleData>
+		<SimpleData name="Entity">LWPolyline</SimpleData>
+		<SimpleData name="LineWt">25</SimpleData>
+		<SimpleData name="Linetype">Continuous</SimpleData>
+		<SimpleData name="Elevation">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.155940307015,-16.6548329157693 -68.1558710702959,-16.6548033786726 -68.1559504555529,-16.6546304605393 -68.1560496076935,-16.6546727598412 -68.1559902284059,-16.6548134763768 -68.1559875309358,-16.6548186415052 -68.1559840137309,-16.6548233260119 -68.1559797667636,-16.6548274100642 -68.1559748986741,-16.6548307891892 -68.1559695339913,-16.6548333769466 -68.1559638099475,-16.65483510714 -68.1559578729674,-16.6548359355097 -68.1559518749231,-16.6548358408655 -68.1559459692486,-16.6548348256286 -68.155940307015,-16.6548329157693</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Export_Output_16">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="Layer">manzanos libres esquina</SimpleData>
+		<SimpleData name="FID_">0</SimpleData>
+		<SimpleData name="FID">9</SimpleData>
+		<SimpleData name="Color">52</SimpleData>
+		<SimpleData name="RefName"></SimpleData>
+		<SimpleData name="Entity">LWPolyline</SimpleData>
+		<SimpleData name="LineWt">25</SimpleData>
+		<SimpleData name="Linetype">Continuous</SimpleData>
+		<SimpleData name="Elevation">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1552955451722,-16.6545578525077 -68.1552898199484,-16.6545548093705 -68.1552847298864,-16.6545508541042 -68.1552804296454,-16.6545461068876 -68.1552770498858,-16.6545407119626 -68.1552746932999,-16.6545348332512 -68.1552734314914,-16.6545286493752 -68.1552733027995,-16.6545223482285 -68.1552743111343,-16.6545161212683 -68.1552764258581,-16.6545101576976 -68.1553406326155,-16.6543703025035 -68.1554394114674,-16.6544124429548 -68.1553600258608,-16.6545853608791 -68.1552955451722,-16.6545578525077</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Export_Output_16">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="Layer">manzanos libres esquina</SimpleData>
+		<SimpleData name="FID_">0</SimpleData>
+		<SimpleData name="FID">5</SimpleData>
+		<SimpleData name="Color">52</SimpleData>
+		<SimpleData name="RefName"></SimpleData>
+		<SimpleData name="Entity">LWPolyline</SimpleData>
+		<SimpleData name="LineWt">25</SimpleData>
+		<SimpleData name="Linetype">Continuous</SimpleData>
+		<SimpleData name="Elevation">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1552575978679,-16.6546405092326 -68.1553260828989,-16.6546697259159 -68.155246355549,-16.6548433876935 -68.1551435722054,-16.654799538841 -68.1552081206902,-16.6546589397904 -68.1552112775525,-16.6546534208105 -68.1552153806297,-16.6546485141118 -68.1552203052518,-16.654644368782 -68.1552259017868,-16.6546411107746 -68.1552320001868,-16.6546388390825 -68.1552384151551,-16.6546376227299 -68.1552449517761,-16.6546374986751 -68.1552514114382,-16.6546384706873 -68.1552575978679,-16.6546405092326</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Export_Output_16">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="Layer">manzanos libres esquina</SimpleData>
+		<SimpleData name="FID_">0</SimpleData>
+		<SimpleData name="FID">10</SimpleData>
+		<SimpleData name="Color">52</SimpleData>
+		<SimpleData name="RefName"></SimpleData>
+		<SimpleData name="Entity">LWPolyline</SimpleData>
+		<SimpleData name="LineWt">25</SimpleData>
+		<SimpleData name="Linetype">Continuous</SimpleData>
+		<SimpleData name="Elevation">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-68.1554048392758,-16.6542304472834 -68.155407996125,-16.6542249282998 -68.1554120991877,-16.6542200215964 -68.1554170237944,-16.654215876261 -68.1554226203136,-16.6542126182474 -68.1554287186977,-16.6542103465487 -68.1554351336506,-16.6542091301893 -68.1554416702573,-16.6542090061276 -68.1554481299065,-16.6542099781331 -68.155454316325,-16.6542120166721 -68.1555187969254,-16.6542395249908 -68.1554394114674,-16.6544124429548 -68.1553406326155,-16.6543703025035 -68.1554048392758,-16.6542304472834</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
